@@ -1,0 +1,6 @@
+button{
+    background: yellow;
+    border: 2px solid red;
+    cursor: pointer;
+    shape-margin: 20%;
+}
